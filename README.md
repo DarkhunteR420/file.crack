@@ -8,7 +8,5 @@ $ pip install requests bs4
 $ pip install futures
 $ apt install git
 $ git clone https://github.com/DarkhunteR420/file.crack
-
-# Tools Run
 $ cd file.crack
 $ python Virus.py
